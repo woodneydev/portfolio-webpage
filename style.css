@@ -12,7 +12,7 @@ header {
   text-align: center;
 }
 
-/*------ headings styling ------*/
+/* headings styling */
 h1, h2, h3, h4, h5, h6 {
  font-family: 'Oswald', sans-serif;
 }
@@ -21,7 +21,7 @@ article h2, article h3 {
   text-align: center;
 }
 
-/* ------image styling ------*/
+/* image styling */
 img {
   width: 400px;
   display: block;
@@ -33,7 +33,7 @@ img {
   border-radius: 50%;
 }
 
-/*------ class styling ------*/
+/*class styling */
 .text-centered {
   text-align: center;
 }
@@ -47,7 +47,7 @@ img {
   width: 600px;
 }
 
-/*   ----------------------  */
+/*   end class style  */
 
 article {
   padding-top: 25px;
